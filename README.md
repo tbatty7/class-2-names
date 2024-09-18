@@ -1,3 +1,4 @@
 # class-2-names
 
-Caleb Bayne 
+Caleb Bayne
+Andrew T Batty
