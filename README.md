@@ -1,9 +1,9 @@
 # class-2-names
 
-Caleb Bayne The mostest amazingest person on the Earth,
+Caleb Bayne,
 Andrew T Batty, 
-King the MAC user,
+King,
 Caden Blalock,
-CHAMPion write your whole name dude!,
+CHAMP,
 Caleb J,
 Daniel H
