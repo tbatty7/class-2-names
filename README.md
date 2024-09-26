@@ -1,4 +1,1 @@
-# class-2-names
-
-Caleb Bayne
-Andrew T Batty
+Who's ready for prank time!
